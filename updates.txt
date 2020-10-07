@@ -1,0 +1,3 @@
+This file will be updated with text data describing blog updates daily:
+
+10/7 - Something on ways to make your github contributions graph more consistent.
